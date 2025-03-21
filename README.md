@@ -46,9 +46,9 @@
 # ♻️ **REQUIREMENTS**  
 - ✅ **Pricing for Key/Source Code:**
 - ```sh
-  700k per month per device
-  1.2 million VND for lifetime use on one device
-  3 million VND for full source code
+  30$ per month per device
+  50$ for lifetime use on one device
+  120$ for full source code
 
 # 🚀 **ADVANTAGES**  
 - 🔄 **Unlimited REF link execution** 📈  
