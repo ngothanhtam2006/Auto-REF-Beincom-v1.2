@@ -25,6 +25,10 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
+### 🔑 **Pass giải nén**
+- ```sh  
+  ngothanhtam
+  
 ### 🔧 **Tải thư viện cần thiết**  
 - ```sh  
   pip install -r requirements.txt
@@ -62,6 +66,10 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **USER GUIDE**  
+### 🔑 **Extraction password**
+- ```sh  
+  ngothanhtam
+  
 ### 🔧 **Install required libraries**  
 - ```sh  
   pip install -r requirements.txt
