@@ -36,7 +36,11 @@
 ### 🚀 **Chạy chương trình**
 - ```sh  
   run TakBeincomV1.2.exe
-![Demo dăng ký và pass reCAPTCHA](screenshots/demo.png)
+  
+<p align="center">
+  <img src="demo.png" alt="Demo Tool" width="700">
+</p>
+
 *English Version*
 
 # ♻️ **REQUIREMENTS**  
